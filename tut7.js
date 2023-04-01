@@ -38,32 +38,3 @@
 // console.log(i);
 // i =1 , true , body execute, inc , cond , body ex.
 
-// *
-// * *
-// * * *
-// * * * *
-// * * * * *
-
-
-// rows = 5
-
-for(var i=1;i<=5;i++){
-    for(var j=0;j<i;j++){
-       document.write("* ")
-    }
-    document.write("<br>")
-}
-
-// i=1, j=0 //1st iteration
-// *
-
-// i=2, j=0
-// i=2, j=1
-// * *
-
-
-// i=3, j=0
-// i=3, j=1
-// i=3, j=2
-
-// * * *
